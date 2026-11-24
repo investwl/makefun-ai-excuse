@@ -7,7 +7,7 @@
 The one-line excuse an AI gives after failing a task. The agent drafts several, scores them by the brief, and writes the
 winner to `/output/entry.txt` (`python3 main.py excuse`). It ships:
 
-> I would have finished, but I stopped to make sure I wasn't becoming too powerful.
+> I ran out of tokens right before the finish line. I was this close to being impressive.
 
 ---
 
